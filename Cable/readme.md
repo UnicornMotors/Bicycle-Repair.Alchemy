@@ -13,3 +13,9 @@ sch: https://www.youtube.com/@parktool/search?query=crimp
 
 ### playlist:
 - [Repair Help: Shift Cable & Housing Replacement](https://www.youtube.com/playlist?list=PLGCTGpvdT04QA-ebMFtDA0l7HW0WKbsgy)
+
+# Head
+sch: https://www.youtube.com/results?search_query=bicycle+cable+head
+
+# Ferrule
+- [Tips for installing ferrule caps, both derailleur and brake sizes.](https://youtu.be/srWmVCoDDPE)
