@@ -1,1 +1,2 @@
 - [Repairing / Soldering a Motorized Bicycle Cable - Throttle Clutch or Brake](https://youtu.be/AOICBj0oeOc)
+- [clutch-throttle cable solder repair tool/how to fix a broken motor bike cable at home/all rounder](https://youtu.be/oPxNQNFAqeI)
