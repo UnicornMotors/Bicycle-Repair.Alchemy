@@ -7,3 +7,6 @@
 - [How to Replace Twist Shifter Shift Cable](https://youtu.be/VSA77DZ8kZ4)
 
 sch: https://www.youtube.com/@parktool/search?query=crimp
+
+### playlist:
+- [Repair Help: Shift Cable & Housing Replacement](https://www.youtube.com/playlist?list=PLGCTGpvdT04QA-ebMFtDA0l7HW0WKbsgy)
