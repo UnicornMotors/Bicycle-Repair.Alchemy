@@ -5,6 +5,9 @@
 - [Calvin's Quick Cutting Conversation | Tech Tuesday #148](https://youtu.be/Y0d55cD_QNw)
 - [Brake Caliper Mounting & Adjustment - Side Pull](https://youtu.be/UOrIVc5lG-k)
 - [How to Replace Twist Shifter Shift Cable](https://youtu.be/VSA77DZ8kZ4)
+- [How to Replace Shift Cable for Bar End, Thumb, and Down Tube Shifters](https://youtu.be/DE2TSilAy5I?list=PLGCTGpvdT04QA-ebMFtDA0l7HW0WKbsgy)
+- [What Type of Derailleur Shifter Do I Have?](What Type of Derailleur Shifter Do I Have?)
+
 
 sch: https://www.youtube.com/@parktool/search?query=crimp
 
